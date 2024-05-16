@@ -7,5 +7,5 @@ Baldonado, Matthew Jayd -
 Prefab names(under Assets/Prefabs)\
 Ruiz_City_1.prefab\
 Macaraeg_City_1.prefab\
-SURNAME_City_1.prefab\
+Baldonado_City_1.prefab\
 SURNAME_City_1.prefab
